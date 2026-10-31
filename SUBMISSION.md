@@ -6,6 +6,12 @@ Status: product implemented and tested locally October 31; not submitted to Devp
 
 **Pathway:** Hackathon. **Stack:** JavaScript ES modules, HTML, CSS, localStorage, Node test runner. No integrated AI.
 
+**Source:** https://github.com/Ali-Ateeb/fourstack-kitcycle
+
+**App:** https://ali-ateeb.github.io/fourstack-kitcycle/
+
+**Demo:** `media/demo.mp4`, 1:49 edited actual-capture walkthrough with synthetic narration. Captions and transcript included; full audio/video decode passed. No YouTube upload is claimed.
+
 ## Inspiration
 
 Student clubs can promise a kit for a workshop without knowing whether its components came back intact. KitCycle explores a small handoff workflow that makes incomplete returns visible before another loan. This is a proposed problem and prototype, not a claim based on interviews or measured losses.

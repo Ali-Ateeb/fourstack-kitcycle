@@ -1,0 +1,9 @@
+KitCycle explores how student clubs could avoid lending an incomplete kit. This is an edited walkthrough of actual app captures, using invented data and synthetic narration. It is a prototype, not a real lending service or a user study.
+
+The shelf starts with two available kits and one repair hold. An invented club can request Circuit starter. That request does not reserve it. A volunteer must review and confirm approval. The same kit cannot be approved for two active requests.
+
+Checkout requires every listed component. In the tested walkthrough, returning the kit with a missing USB cable and a repair note moves it into a repair hold. It cannot be lent again until an inspection note and confirmation clear the hold. These buttons simulate decisions; they cannot verify physical equipment.
+
+The audit records requests, approval, checkout and return. The actual JSON download was checked against those four actions. Browser state persists across reloads. Other tabs refresh, and a stale write is rejected. The audit is editable browser data, not a signed or tamper proof record.
+
+Ten core tests and a real local browser walkthrough passed, including corrupt storage handling and a narrow screen. There are no accounts, role permissions or cloud synchronization. Use invented aliases only. Codex generated the new October thirty first implementation and materials. The October twenty ninth concept plan is disclosed. Humans still need to review and understand the code before presenting it.

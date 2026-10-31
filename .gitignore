@@ -2,3 +2,7 @@ node_modules/
 .build/
 *.log
 .env*
+media/*.wav
+media/frames/
+media/segments/
+media/*.tmp

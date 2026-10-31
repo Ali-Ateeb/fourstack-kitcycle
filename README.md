@@ -2,6 +2,8 @@
 
 A small equipment lending and repair prototype for student clubs. Try an invented request, approve it, inspect every component at checkout, and return a kit with a missing cable. The kit stays out of circulation until an inspection clears its repair hold.
 
+Source: https://github.com/Ali-Ateeb/fourstack-kitcycle . App: https://ali-ateeb.github.io/fourstack-kitcycle/ . `media/demo.mp4` is a 1:49 edited walkthrough of actual app screenshots with synthetic narration, captions and transcript. Complete audio/video decoding passed. It has not been uploaded to YouTube.
+
 This is a synthetic local demo, not a deployed club service. No user study, real users, measured impact, physical inspection or individual teammate contribution is claimed.
 
 ## Run and test

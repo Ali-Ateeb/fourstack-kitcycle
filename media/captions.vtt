@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.402
+KitCycle explores how student clubs could avoid lending an incomplete kit. This is an edited
+
+00:00:05.402 --> 00:00:10.805
+walkthrough of actual app captures, using invented data and synthetic narration. It is a
+
+00:00:10.805 --> 00:00:16.207
+prototype, not a real lending service or a user study.
+
+00:00:17.207 --> 00:00:22.964
+The shelf starts with two available kits and one repair hold. An invented club can request
+
+00:00:22.964 --> 00:00:28.721
+Circuit starter. That request does not reserve it. A volunteer must review and confirm
+
+00:00:28.721 --> 00:00:34.478
+approval. The same kit cannot be approved for two active requests.
+
+00:00:35.478 --> 00:00:40.658
+Checkout requires every listed component. In the tested walkthrough, returning the kit with a
+
+00:00:40.658 --> 00:00:45.838
+missing USB cable and a repair note moves it into a repair hold. It cannot be lent again until
+
+00:00:45.838 --> 00:00:51.019
+an inspection note and confirmation clear the hold. These buttons simulate decisions; they
+
+00:00:51.019 --> 00:00:56.199
+cannot verify physical equipment.
+
+00:00:57.199 --> 00:01:02.654
+The audit records requests, approval, checkout and return. The actual JSON download was checked
+
+00:01:02.654 --> 00:01:08.109
+against those four actions. Browser state persists across reloads. Other tabs refresh, and a
+
+00:01:08.109 --> 00:01:13.564
+stale write is rejected. The audit is editable browser data, not a signed or tamper proof
+
+00:01:13.564 --> 00:01:19.020
+record.
+
+00:01:20.020 --> 00:01:25.720
+Ten core tests and a real local browser walkthrough passed, including corrupt storage handling
+
+00:01:25.720 --> 00:01:31.419
+and a narrow screen. There are no accounts, role permissions or cloud synchronization. Use
+
+00:01:31.419 --> 00:01:37.119
+invented aliases only. Codex generated the new October thirty first implementation and
+
+00:01:37.119 --> 00:01:42.819
+materials. The October twenty ninth concept plan is disclosed. Humans still need to review and
+
+00:01:42.819 --> 00:01:48.519
+understand the code before presenting it.
